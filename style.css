@@ -1,0 +1,34 @@
+html,body{
+    background-color: orange;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+.title h1{
+    text-align: center;
+    font-size: 50px;
+    line-height: 1;
+}
+.Zenitsu-Sleeping {
+    width: auto;
+    height: 200px;
+    display: flex;
+    margin: auto;
+}
+.title .Strikes-Total{
+    text-align: center;
+    font-size: 22px;
+}
+.title .Passive-Counter {
+    text-align: center;
+    font-size: 22px;
+}
+.title .bttn-container {
+    text-align: center;
+}
+.title .Lightning-Pic{
+    width:auto;
+    height: 100px;
+}
+.title .Generator-Text-5{
+    text-align:end;
+}
